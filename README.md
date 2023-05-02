@@ -16,9 +16,9 @@ To give you a samplesheet.csv from your *.fastq.gz files to be assembled with th
 
 To run this workflow, you need to have the following installed:
 
-- Nextflow (version 20.10.0 or higher)
+- Nextflow
 - Python3 (for running the Python scripts)
-- Skewer (for checking the FastQ files)
+- Singularity to run [skewer](https://github.com/relipmoc/skewer) (for checking the FastQ files)
 
 ## Input
 
