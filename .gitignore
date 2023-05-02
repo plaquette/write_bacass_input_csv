@@ -1,0 +1,7 @@
+/.nextflow
+/results
+/work
+/out
+/in_example
+/scr/sif_images
+.nextflow.*

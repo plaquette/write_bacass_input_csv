@@ -1,0 +1,1 @@
+nextflow run write_samplesheet.nf -profile cluster --in=/scicore/home/neher/winjan00/08_spring_23/download_SRA/out/get_them_all/fastq --run=clean_up_csv -resume
